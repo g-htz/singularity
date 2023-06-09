@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Singularity/static/css/main.256c70d9.css",
+    "main.js": "/Singularity/static/js/main.db4aa84f.js",
+    "index.html": "/Singularity/index.html",
+    "main.256c70d9.css.map": "/Singularity/static/css/main.256c70d9.css.map",
+    "main.db4aa84f.js.map": "/Singularity/static/js/main.db4aa84f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256c70d9.css",
+    "static/js/main.db4aa84f.js"
+  ]
+}
